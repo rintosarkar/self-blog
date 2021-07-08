@@ -43,7 +43,7 @@
                         </div>
                     </div>
 
-                    <h1 class="font-bold text-3xl lg:text-4xl mb-10">
+                    <h1 class="font-bold text-3xl lg:text-4xl mb-8">
                         <a href="/posts/{{ $post->slug }}">
                             {{ $post->title }}
                         </a>
